@@ -33,11 +33,6 @@ This is the web-based admin panel for the Health Referral System. It allows hosp
 
 ---
 
-## 📸 Screenshots
-(Add web panel UI screenshots here)
-
----
-
 ## 🔮 Future Scope
 - Real-time synchronization with backend
 - Multi-hospital dashboard
